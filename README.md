@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming And learning new Languages
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on Email-gauravsinghchauhah60@gmail.com
+- 📫 You can reach me on Email-gauravsinghchauhan60@gmail.com
 
 <!---
 1Gaurav1/1Gaurav1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
