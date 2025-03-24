@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1Gaurav1
 - 👀 I’m interested in Programming And learning new Languages
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on gauravsinghchauhan60@gmail.com
 
