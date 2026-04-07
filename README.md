@@ -51,30 +51,6 @@
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎬 Project Name</h3>
-      <p>Short description of what the project does and what problem it solves.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js" />
-      </p>
-      <a href="[repo-link]">📁 Repo</a> &nbsp;|&nbsp; <a href="[live-link]">🌐 Live</a>
-    </td>
-    <td width="50%">
-      <h3>🛠️ Project Name</h3>
-      <p>Short description of what the project does and what problem it solves.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" />
-      </p>
-      <a href="[repo-link]">📁 Repo</a> &nbsp;|&nbsp; <a href="[live-link]">🌐 Live</a>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
