@@ -7,20 +7,20 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in **Information Technology** @ Manipal University Jaipur (2023–2027)
-- 🔭 Currently working on **[your current project]**
+- 🔭 Currently working on **[NA]**
 - 🌱 Exploring **React**, **Next.js**, and **Full Stack Development**
 - 💡 Interested in building clean, user-focused web applications
-- 📫 Reach me at **[your email]**
+- 📫 Reach me at **[gauravsinghchauhan60@gmail.com]**
 
 <br/>
 
 ## 🔗 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+  <a href="https://linkedin.com/in/gaurav-singh-chouhan-9b0021286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[your-email]">
+  <a href="mailto:[gauravsinghchauhan60@gmail.com]]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://[your-portfolio].com" target="_blank">
