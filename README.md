@@ -80,7 +80,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=1Gaurav1&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=1Gaurav1&label=Profile%20views&color=0e75b6&style=flat" />
   <br/>
   <sub>Thanks for visiting! ⭐ Star a repo if you find it useful.</sub>
 </div>
