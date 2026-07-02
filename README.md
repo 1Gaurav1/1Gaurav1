@@ -17,7 +17,7 @@
 ## 🔗 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/gaurav-singh-chouhan-9b0021286/" target="_blank">
+  <a href="https://linkedin.com/in/gauravs31/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:[gauravsinghchauhan60@gmail.com]]">
