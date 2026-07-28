@@ -65,15 +65,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Gaurav1&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=1Gaurav1&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Gaurav1&theme=dark&hide_border=true&layout=compact" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=1Gaurav1&theme=dark&hide_border=true&layout=compact" height="150"/>
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=1Gaurav1&theme=dark&hide_border=true" />
 </div>
-
 <br/>
 
 ### ✍️ Dev Quote of the Day
