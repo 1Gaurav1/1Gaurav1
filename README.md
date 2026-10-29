@@ -22,7 +22,7 @@
 const gaurav = {
   role:      "Full Stack Developer (in the making)",
   education: "B.Tech IT @ Manipal University Jaipur · 2023 – 2027",
-  currently: "🔨 Building → Something ",
+  currently: "🔨 Building → StockPro- A stock market analyzer ",
   learning:  ["React", "Next.js", "TypeScript", "System Design"],
   loves:     ["Clean UI", "Fast apps", "Open source", "Shipping things"],
   funFact:   "I debug with console.log and I'm not ashamed.",
@@ -62,34 +62,19 @@ const gaurav = {
 
 <br/>
 
-<!-- ═══════════════ PROJECTS (no external service needed) ═══════════════ -->
-## `~/projects`
-
-<!-- Replace the names, descriptions and links with your real projects -->
-
-| Project | What it is | Stack | Links |
-|:--|:--|:--|:--|
-| **Project One** | One line about what it does | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | [Code](https://github.com/1Gaurav1/REPO-NAME) · [Live](https://your-demo-link.com) |
-| **Project Two** | One line about what it does | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) | [Code](https://github.com/1Gaurav1/REPO-NAME) · [Live](https://your-demo-link.com) |
-| **Project Three** | One line about what it does | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [Code](https://github.com/1Gaurav1/REPO-NAME) · [Live](https://your-demo-link.com) |
-
-<br/>
-
 <!-- ═══════════════ STATS ═══════════════ -->
 ## `~/stats`
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=1Gaurav1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=1Gaurav1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=1Gaurav1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=1Gaurav1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&count_private=true"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=1Gaurav1&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D"/>
 
 </div>
-
-<br/>
 
 <!-- ═══════════════ ACTIVITY ═══════════════ -->
 ## `~/activity`
