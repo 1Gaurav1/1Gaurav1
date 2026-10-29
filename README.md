@@ -22,7 +22,7 @@
 const gaurav = {
   role:      "Full Stack Developer (in the making)",
   education: "B.Tech IT @ Manipal University Jaipur · 2023 – 2027",
-  currently: "🔨 Building → (add your current project here)",
+  currently: "🔨 Building → Nothing Rn",
   learning:  ["React", "Next.js", "TypeScript", "System Design"],
   loves:     ["Clean UI", "Fast apps", "Open source", "Shipping things"],
   funFact:   "I debug with console.log and I'm not ashamed.",
